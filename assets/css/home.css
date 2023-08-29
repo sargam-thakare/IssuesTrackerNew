@@ -1,0 +1,83 @@
+
+.projectcard{
+    border: 2px solid grey;
+    border-radius: 6px;
+    padding: 5px 10px;
+    margin: 20px;
+}
+.navbar{
+    height: 70px;
+    background: skyblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#listofissues{
+       
+    margin: 0px;
+    padding: 0px;
+ }
+ #authorselect{
+    margin: 0px 10px;
+    width: 150px;
+    height: 30px;
+    border: 2px solid grey;
+    border-radius: 6px;
+ }
+.issueslist{
+    margin-left: 25px;
+}
+
+.projectdetails{
+    margin: 50px;
+    padding: 17px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+.createissue{
+    text-align: end;
+    margin-right: 20px;
+}
+.list{
+     list-style-type: none;
+}
+
+.filterinput{
+    margin-left: 10px;
+   
+}
+
+.buttontonav{
+    text-align: end;
+}
+.issuesclass{
+    border: 2px solid grey;
+    border-radius: 6px;
+    padding: 5px;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    border: 2px solid grey;
+    border-radius: 6px;
+}
+
+label input{
+    width: 20px;
+    height: 20px;
+}
+.listissues
+{
+    border: 2px solid grey;
+    border-radius: 6px;
+    padding: 5px 10px;
+    margin: 20px;
+    list-style-type: none;
+}
